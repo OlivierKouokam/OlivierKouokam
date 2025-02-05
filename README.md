@@ -1,5 +1,7 @@
 ## Hi everyone, I'm Olivier KOUOKAM 👋
-
+<img align="right" alt="GIF" src="[https://github.com/OlivierKouokam
+/OlivierKouokam
+/blob/main/images/DevOps-scaled.jpg](https://github.com/OlivierKouokam/OlivierKouokam/blob/main/images/devops-cover-image.png)" />
 <!--
 **OlivierKouokam/OlivierKouokam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

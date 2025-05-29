@@ -1,6 +1,6 @@
 ## Hi everyone, I'm Olivier KOUOKAM 👋👋👋
 
-![](images/devops-cover-image.png)
+[![](images/devops-cover-image.png)](https://www.linkedin.com/in/olivier-kouokam-b2088b140/)
 
 [![image](https://github.com/user-attachments/assets/22a29a17-bd0b-44a2-adb3-14f71e79e534)](https://youtu.be/KkcEH7OwMdE "YOUTUBE KUBERNETES POSTGRESQL")
 

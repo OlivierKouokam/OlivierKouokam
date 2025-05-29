@@ -1,5 +1,11 @@
-## Hi everyone, I'm Olivier KOUOKAM 👋
-<img align="right" alt="PNG" src="[https://github.com/OlivierKouokam/OlivierKouokam/blob/main/images/devops-cover-image.png]" />
+## Hi everyone, I'm Olivier KOUOKAM 👋👋👋
+
+![](images/devops-cover-image.png)
+
+![image](https://github.com/user-attachments/assets/22a29a17-bd0b-44a2-adb3-14f71e79e534)
+
+![image](https://github.com/user-attachments/assets/612f77fc-c2c7-4d68-b3b5-491e754a4700)
+
 <!--
 **OlivierKouokam/OlivierKouokam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

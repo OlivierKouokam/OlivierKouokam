@@ -2,9 +2,9 @@
 
 ![](images/devops-cover-image.png)
 
-![image](https://github.com/user-attachments/assets/22a29a17-bd0b-44a2-adb3-14f71e79e534)
+[![image](https://github.com/user-attachments/assets/22a29a17-bd0b-44a2-adb3-14f71e79e534)](https://youtu.be/KkcEH7OwMdE "YOUTUBE KUBERNETES POSTGRESQL")
 
-![image](https://github.com/user-attachments/assets/612f77fc-c2c7-4d68-b3b5-491e754a4700)
+[![image](https://github.com/user-attachments/assets/612f77fc-c2c7-4d68-b3b5-491e754a4700)](https://youtu.be/WV0pS_9pE1M "VIDEO YOUTUBE DRUPAL BLUE-GREEN")
 
 <!--
 **OlivierKouokam/OlivierKouokam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

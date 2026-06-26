@@ -6,6 +6,8 @@
 
 [![image](https://github.com/user-attachments/assets/612f77fc-c2c7-4d68-b3b5-491e754a4700)](https://youtu.be/WV0pS_9pE1M "VIDEO YOUTUBE DRUPAL BLUE-GREEN")
 
+[![image](https://github.com/user-attachments/assets/a19d81d8-430a-4cdf-a9a0-27ff4a1ccc1f)](https://www.youtube.com/watch?v=xbvolxFO8Ro "Construisez un Cluster Kubernetes Hautement Disponible de A à Z")
+
 <!--
 **OlivierKouokam/OlivierKouokam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
